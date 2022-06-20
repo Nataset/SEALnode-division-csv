@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "node-seal": "^5.0.0"
+    },
+    "name": "SEALnode",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+}
